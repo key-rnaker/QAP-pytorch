@@ -1,2 +1,2 @@
 # QAP-pytorch
-quantized Average Precision
+quantization Average Precision
